@@ -1,0 +1,771 @@
+[
+  {
+    "Nimi": "\u00d5lu Alexander 5,2%vol 0,568l prk 6-pakk",
+    "Hind": "2,34 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Stella Artois 5% 0,33l pdl",
+    "Hind": "5,42 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karl Friedrich 5%vol 0,568l prk 6-pakk",
+    "Hind": "2,34 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Corona Extra Beer 4,5%vol 0,355l pudel",
+    "Hind": "4,76 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Originaal 4,7%vol 0,5l pudel",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Rock 5,3%vol 0,568l prk 6-pakk",
+    "Hind": "2,34 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Extra Ginger 4,5%vol 0,33l",
+    "Hind": "2,39 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karl Friedrich 5%vol 0,568l purk",
+    "Hind": "2,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku The Taste Of Manchest.4,2%",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook Saku On Ice Tsitrus 0,33l",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Kuld 5,2%vol 0,33l pudel",
+    "Hind": "3,61 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Tikker \u00d5llenaut 3,9%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Tuborg Green 4,6%vol 0,33l pdl",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu P\u00f5hjala Uus Maailm 4,7%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook Saku On Ice Granaat\u00f5un 0,33l",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Originaal 4,7%vol 0,5l prk 6-pakk",
+    "Hind": "2,10 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku The Cream Of Dublin 4,2% 0,5L",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kirg P\u00f5hjala 6%vol 0,33l pudel",
+    "Hind": "7,24 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u00c4nd Vat Juu? Lehe 4,0%vol 0,33l pudel",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Suve\u00f5htu nanoPruul 5,2%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu V\u00e4ike Roheline Draakon Lehe 4%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu P\u00f5hjala Must Kuld 7,8%vol 0,33l",
+    "Hind": "7,85 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu P\u00f5hjala Virmalised 6,5%vol 0,33l",
+    "Hind": "7,85 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Extra Lime 4,5%vol 0,33l pudel",
+    "Hind": "2,39 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Kriek Brewers Collection 4,5%vol 0,5l prk",
+    "Hind": "3,10 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kena P\u00f6ide 5,3%vol 0,33l",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Premium 4,7%vol 0,5l prk 6-pakk",
+    "Hind": "2,66 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Kuld 5,2%vol 0,5L purk",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu T\u00f5mmu Hiid 4,7%vol 0,5l pudel",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Special 5,2%vol 0,5l pudel",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Paulaner Originaal M\u00fcnchener 0,5l 4,9%vol",
+    "Hind": "4,90 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Originaal 4,2%vol 2l",
+    "Hind": "1,25 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq I 2,9%vol 0,5l purk",
+    "Hind": "2,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karl Friedrich 5%vol 0,5l pudel",
+    "Hind": "1,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Alexander 5,2%vol 0,5l pudel",
+    "Hind": "2,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Premium 4,7%vol 0,5l pdl 6-pakk",
+    "Hind": "2,33 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu N\u00e4kk Passion Fruit Witbier Kolk 4,7%vol 0,33l",
+    "Hind": "6,94 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Muruniitja \u00d5llenaut 4,2%vol 0,33l pudel",
+    "Hind": "5,42 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Krusovice Imperial 5%vol 0,5l purk",
+    "Hind": "3,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karksi Blond Munk 6%vol 0,5l",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Grimbergen Blonde 6,7%vol 0,5l",
+    "Hind": "3,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu K\u00f6nig Stadter 4,5%vol 0,33l",
+    "Hind": "1,79 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Leffe Blonde 6,6% 0,33l",
+    "Hind": "6,64 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Miller Genuine Draft 4,7%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Heineken 5%vol 0,5l pudel",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Imperial Gold 4,8%vol 0,4l pudel",
+    "Hind": "3,22 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Paulaner Hefe-Weisbier 5,5%vol 0,5l",
+    "Hind": "4,90 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kaiserdom Kellerbier 4,7%vol 0,5l purk",
+    "Hind": "3,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kolm venda Pihtla 6,5%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu MMM\u2026 Pilsner! Kolk 4,2%vol 0,33l pudel",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Heineken 5%vol 6x 0,5l purk",
+    "Hind": "3,00 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku On Ice 5%vol 0,33l",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Premium 4,7%vol 0,5l purk",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Alexander Weizen 5,0%vol 0,568l prk",
+    "Hind": "2,62 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Originaal 4,7%vol 0,33l prk",
+    "Hind": "2,09 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Antv\u00e4rk IPA 6%vol 0,44l purk",
+    "energiasisaldus": "188 kJ/ 45 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "3.4 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0.5 g",
+    "sool": "0 g",
+    "Hind": "3,61 \u20ac/l"
+  },
+  {
+    "Nimi": "Hele \u00f5lu Beerville 5,1% 0,5l",
+    "Hind": "2,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Beerville nisu\u00f5lu 4,6%vol 0,5l",
+    "Hind": "2,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Kuld 5,2%vol 0,5l purk 6-pakk",
+    "Hind": "2,66 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Rock 5,3%vol 2l",
+    "Hind": "1,85 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq IPA Brewers Collection 5%vol 0,5l prk",
+    "Hind": "3,10 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kronenbourg 1664 Blanc 0,5l purk",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Star\u00f5i Melnik Svetloje 4,7% 0,45l",
+    "Hind": "3,09 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Santanos 4,5%vol 0,33l",
+    "Hind": "3,00 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u00d5llenaut Hele 4,9%vol 0,5l",
+    "Hind": "4,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Pilsner Urquell 4,4%vol 0,5l",
+    "Hind": "4,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Velkopopovicky Kozel Dark 3,8%vol 0,5l",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Leffe Brune 6,5% 0,33l",
+    "Hind": "6,64 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Heineken 5%vol 0,5l purk",
+    "Hind": "3,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Originaal 4,2%vol 0,5l",
+    "Hind": "1,34 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Birra Moretti Hele 4,6%vol 0,33l",
+    "Hind": "5,42 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Alexander 5,2 %vol 0,568l purk",
+    "Hind": "2,44 \u20ac/l"
+  },
+  {
+    "Nimi": "M\u00f5du Saku M\u00f5du 4,0% 0,5L pdl",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Pilsner 4,2% 0,5L pudel",
+    "Hind": "2,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Pilsner 4,2%vol 0,5l pudel",
+    "Hind": "2,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u017diguli Barnoje 4,9 %vol 0,5l",
+    "Hind": "2,90 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu P\u00fchaste Vulin Session IPA 4,6%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Muhu T\u00e4itsamees 5,0%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "Rukki\u00f5lu Rye ale P\u00f6ide 5,3%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Koit Red Lager P\u00f6ide 5%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu V\u00e4ike Punane Draakon Lehe 4%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Flamango nanoPruul 4,6%vol 0,33l pudel",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu India Pioneeride Laager Lehe 6%vol 0,33l pudel",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Tuul P\u00f5hjala 8%vol 0,33l pudel",
+    "Hind": "7,24 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Mari P\u00fchaste 3,5%vol 0,33l pudel",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Valmiermuiza Saisais alus 5,2%vol 0,33l",
+    "Hind": "6,94 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Alexander filtreerimata 5%vol 0,568l purk",
+    "Hind": "2,80 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Premium 4,7%vol 0,5l pudel",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Tume 6.7%vol 0.5L",
+    "Hind": "3,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Imperial Extra Double Stout 7,0 % 0,4l pudel",
+    "Hind": "3,72 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karl Friedrich Dunkel 4,4%vol 0,568l",
+    "Hind": "2,62 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karl Friedrich M\u00e4rzen 5,0%vol 0,568l",
+    "Hind": "2,62 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Le Coq Raspberry Ale 5%vol 0,5l",
+    "energiasisaldus": "259 kJ/ 62 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "0 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A. Le Coq Premium 4,7%vol 0,33l purk",
+    "Hind": "2,09 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu K\u00e4mp Purtse 4,7%vol 0,33l",
+    "Hind": "6,64 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u00d5llenaut Vaskne 4,9%vol 0,5l",
+    "Hind": "4,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Sauna Session Tanker 4,7%vol 0,44l purk",
+    "Hind": "6,11 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u017diguli IPA 4,5%vol 0,45l",
+    "energiasisaldus": "167 kJ/ 40 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "3 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,53 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Star\u00f5i Melnik iz Bot\u0161onka Mjagkoje 4,3%vol 0,45l",
+    "energiasisaldus": "159 kJ/ 38 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "3.1 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,09 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook Saku On Ice Musts\u00f5star 4%vol 0,33l pudel",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Guinness Original 5%vol 0,33l pdl",
+    "Hind": "5,12 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Karksi Must Nunn 6%vol 0,5l",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kronenbourg 1664 Lager 5%vol 0,5l purk",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Meistrite Gildi Pilsner 4,5%vol 0,568l purk",
+    "Hind": "2,20 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Meistrite Gildi Kuldne 5,2%vol 0,568l purk",
+    "Hind": "2,55 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Meistrite Gildi Originaal 4,8%vol 0,568l purk",
+    "Hind": "2,45 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Originaal 4,7%vol 0,5l purk",
+    "Hind": "2,70 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Strong 7%vol 0,568l prk",
+    "Hind": "2,27 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Originaal 4,2%vol 0,568l prk",
+    "Hind": "1,74 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Banana Bread Beer 5,2%vol 0,5l pdl",
+    "Hind": "6,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Ravnodenstvie russian imperial stout 11%vol 0,33l pdl",
+    "Hind": "9,06 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Alexander Dunkel 4,2% 0,568l purk",
+    "Hind": "2,62 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Star\u00f5i Melnik Svetloje 4,7% 0,45l purk",
+    "Hind": "3,09 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Muddis Saison 5,9% 0,375l",
+    "Hind": "7,44 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Purtse pale ale 5,5%vol 0,33l pudel",
+    "Hind": "7,85 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Siidisuka Purtse sweet stout 6,3%vol 0,33l pudel",
+    "Hind": "8,45 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Hamovniki Venskoje 4,5% 0,47l",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Grimbergen Double Ambree 6,5%vol 0,5l purk",
+    "energiasisaldus": "239 kJ/ 57 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "0 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Hamovniki P\u0161enit\u0161noje 4,8% 0,47l",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Taurus 0,5l pudel",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Taurus 1l pet",
+    "Hind": "2,39 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Velkopopovicky Kozel Premium Lager 4,6%vol 0,5l",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Hoegaarden White 4,9% 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Sol 4,5% 0,33l",
+    "Hind": "4,52 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Newcastle Brown 4,7%vol 0,33l",
+    "Hind": "6,33 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Faxe Premium 5%vol 0,5l purk",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Budweiser Budvar Premium Dark Lager 4,7%vol 0,5l pudel",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Estrella Damm 4,6%vol 0,5l purk",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook St.Ging.Joe G.Beer 4%vol 0,33l",
+    "Hind": "7,24 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook Stone\u00b4s Ginger Joe Ginger Extra 6,5%vol 0,33l, suhkru ja magusainega",
+    "Hind": "9,06 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Budweiser Budvar Lager 5%vol 0,5l pudel",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Porter 6,9% 0,5L",
+    "Hind": "2,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Puls Tume Lager 5,0%vol 0,5l pudel",
+    "Hind": "2,70 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Rock 5,3%vol 0,568l purk",
+    "Hind": "2,02 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Kange 7%vol 0,5l",
+    "Hind": "1,90 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Tuborg 4,6% 0,5l",
+    "Hind": "2,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00f5ige Full description \u00d5lu Lapin Kulta 5,2%vol 0,5l purk",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Warsteiner 4,8%vol 0,5l purk",
+    "Hind": "3,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu A.Le Coq Porter 6,5%vol 0,5l pudel",
+    "Hind": "3,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Damm Daura Gluten-Free Beer 5,4%vol 0,33l",
+    "Hind": "6,94 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Taifuun New England IPA nanoPruul 5%vol 0,33l",
+    "Hind": "5,73 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Citra Single Hop randVEraa\u017e 5,3%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Folk Vienna Lager Tanker 5%vol 0,44l purk",
+    "Hind": "4,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu K\u00e4hkukas NEIPA Purtse 4,7%vol 0,33l prk",
+    "Hind": "6,64 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Randveraaz Uue-Kulli 6,5%vol 0,33l pudel",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Bassfender Anderson's 5,5%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Miroslaw Gose Anderson's 2,7%vol 0,33l",
+    "Hind": "6,03 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saare Taar 4,2%vol 0,5l purk",
+    "Hind": "3,10 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kirin Ichiban 5%vol 0,33l pudel",
+    "Hind": "6,33 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Meistrite Gildi Pilsner 4,5%vol 0,568l purk 6-pakk",
+    "Hind": "2,05 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Staropramen 5%vol 0,5l purk",
+    "Hind": "3,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu M\u00f5isakeldri Tume \u00d5lu 5%vol 0,5l purk",
+    "Hind": "3,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Carlsberg Unfiltered 5%vol 0,5l purk",
+    "energiasisaldus": "175 kJ/ 43 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "0 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Leffe Brune 6,5%vol 0,5l purk",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Leffe Blonde 6,6%vol 0,5l purk",
+    "Hind": "3,98 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Grimbergen Pale Ale 5,5%vol 0,5l purk",
+    "energiasisaldus": "200 kJ/ 48 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "0 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Kuld Draught 5,2%vol 0,5l purk",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Gubernija Noble Lager 5,2%vol 0,5l purk",
+    "Hind": "2,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Gubernija Royal Baltic Porter 6,4%vol 0,5l purk",
+    "Hind": "2,50 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Double Bock 7%vol 0,5l pudel",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Carlsberg Hele 5%vol 0,5L prk",
+    "Hind": "3,18 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Rock Hele 5,3%vol 0,5L",
+    "Hind": "2,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Saku Hele 5.2%vol 0.5L pdl",
+    "Hind": "2,58 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Walter Special 6%vol 2l",
+    "Hind": "1,65 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Double Bock 6,0%vol 2l",
+    "Hind": "1,95 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Hamburgi Lager M\u00f5isakeldri 5%vol 0,5l purk",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu M\u00f5isakeldri Saksa Hele 5,2%vol 0,5l",
+    "Hind": "2,78 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Le Coq Chocolate Porter 6,5%vol 0,5l",
+    "energiasisaldus": "238 kJ/ 57 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "0 g",
+    "millest suhkrud": "0 g",
+    "valgud": "0 g",
+    "sool": "0 g",
+    "Hind": "3,38 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu \u00d5llenaut Tume 4,9%vol 0,5l",
+    "Hind": "4,30 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Santanos Tequila-Lime 4,5%vol 0,33l pudel",
+    "Hind": "3,00 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Craft FM Tanker 3,5%vol 0,44l purk",
+    "Hind": "5,89 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Reloaded Tanker 5,8%vol 0,44l purk",
+    "Hind": "6,80 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Kingfisher Premium 4,8%vol 0,33l",
+    "Hind": "6,64 \u20ac/l"
+  },
+  {
+    "Nimi": "Muu alkohoolne jook Saku Antv\u00e4rk Cherry Brew 4,5%vol 0,44l purk",
+    "energiasisaldus": "230 kJ/ 55 kcal",
+    "rasvad": "0 g",
+    "millest k\u00fcllastunud rasvhapped": "0 g",
+    "s\u00fcsivesikud": "6.2 g",
+    "millest suhkrud": "3.8 g",
+    "valgud": "0.1 g",
+    "sool": "0 g",
+    "Hind": "3,61 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Guinness Draught 4,2%vol 0,44l purk",
+    "Hind": "5,43 \u20ac/l"
+  },
+  {
+    "Nimi": "\u00d5lu Rannakadakas Pihtla 5,1%vol 0,33l pudel"
+  },
+  {
+    "Nimi": "\u00d5lu Dehydration Gose Tanker 5,5%vol 0,44l purk"
+  }
+]
