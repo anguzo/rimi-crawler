@@ -17,22 +17,26 @@ def parse(start_url: str) -> list:
     :param start_url: url of Rimi store category
     :return: list of dictionaries with products data
     """
-    page = requests.get(start_url)
+    page = requests.get(start_url + "?page=1&pageSize=80&query=")
     soup = BeautifulSoup(page.text, 'html.parser')
     links = []
-    for product_a in soup.find_all('a', class_='card__url'):
-        links.append(product_a['href'])
     all_products_data = []
-    for link in links:
-        product_data = find_all_parameters(link)
-        if product_data:
-            all_products_data.append(product_data)
     try:
-        next_page = soup.find("a", rel='next')['href']
-        if next_page:
-            # print('https://www.rimi.ee/' + next_page)
-            return all_products_data + parse("https://www.rimi.ee" + next_page)
-    except TypeError:
+        num_of_pages = int(soup.find_all("li", class_='pagination__item')[-2].find("a")["data-page"])
+        for i in range(1, num_of_pages + 1):
+            for product_a in soup.find_all('a', class_='card__url'):
+                links.append(product_a['href'])
+            page = requests.get(start_url + f"?page={i + 1}&pageSize=80&query=")
+            soup = BeautifulSoup(page.text, 'html.parser')
+    except IndexError as e:
+        for product_a in soup.find_all('a', class_='card__url'):
+            links.append(product_a['href'])
+    finally:
+        for link in links:
+            print(link)
+            product_data = find_all_parameters(link)
+            if product_data:
+                all_products_data.append(product_data)
         return all_products_data
 
 
@@ -48,7 +52,6 @@ def find_all_parameters(href: str):
     product_name = soup.find('h3', class_='name').text
     product_data = {'Nimi': product_name}
 
-    # print(product_name)
     table = soup.find('div', class_='product__table')
     if table:
         table = table.find('tbody')
@@ -194,7 +197,7 @@ def calculate_score(data: list, price_bool: bool):
 
 
 if __name__ == '__main__':
-    # write_json('https://www.rimi.ee/epood/ee/tooted/puuviljad%2C-k%C3%B6%C3%B6giviljad%2C-lilled/juurviljad-ja-k%C3%B6%C3%B6giviljad/c/SH-12-1', '1jkviljad')
+    write_json('https://www.rimi.ee/epood/ee/tooted/puuviljad%2C-k%C3%B6%C3%B6giviljad%2C-lilled/juurviljad-ja-k%C3%B6%C3%B6giviljad/c/SH-12-1', '1jkviljad')
     # write_json('https://www.rimi.ee/epood/ee/tooted/puuviljad%2C-k%C3%B6%C3%B6giviljad%2C-lilled/rohelised-salatid/c/SH-12-6', '2rohsalat')
     # write_json('https://www.rimi.ee/epood/ee/tooted/toidukaubad/helbed%2C-hommikus%C3%B6%C3%B6gihelbed%2C-m%C3%BCsli/c/SH-13-2', '3helbed')
     # write_json('https://www.rimi.ee/epood/ee/tooted/leivad%2C-saiad%2C-kondiitritooted/leivad%2C-saiad%2C-sepikud/c/SH-6-3', '4leibsai')
@@ -211,7 +214,10 @@ if __name__ == '__main__':
     # write_json('https://www.rimi.ee/epood/ee/tooted/alkohol/%C3%B5lu/c/SH-1-6', '15õlu')
     # write_json('https://www.rimi.ee/epood/ee/tooted/vegantooted/c/SH-17', '16vegan')
 
+    # data = get_json("4leibsai")
+    # calculate_score(data, True)
 
-    data = get_json("4leibsai")
-    calculate_score(data, True)
     print("\n+++++++++++++++++++++++++++++++++++\nScroll up to get other sorted lists")
+
+
+
