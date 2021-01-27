@@ -104,7 +104,7 @@ def best_string_repr(sorted_products: list, param: str):
     """
     top = f"Sorted by {param}"
     for i, product in enumerate(sorted_products):
-        if i < 20:
+        if i < 30:
             top += f"\n{i+1}. {product['Nimi']} - {product[param]}"
             if param == 'rasvad':
                 top += f"\n\t\t{'millest küllastunud rasvhapped'} - {product['millest küllastunud rasvhapped']}"
@@ -189,7 +189,7 @@ def calculate_score(data: list, price_bool: bool):
     print("Tier list of hlebushek")
     print("\n")
     for i, name in enumerate(tier_list):
-        if i < 20:
+        if i < 30:
             print(f"{i+1}. {name} - {tier_dict[name]}")
 
 
@@ -209,9 +209,9 @@ if __name__ == '__main__':
     # write_json('https://www.rimi.ee/epood/ee/tooted/majapidamiskaubad/grilltarvikud/c/SH-15-3', '13grilltarbikud')
     # write_json('https://www.rimi.ee/epood/ee/tooted/majapidamiskaubad/puhastusvahendid/c/SH-10-18', '14puhastus')
     # write_json('https://www.rimi.ee/epood/ee/tooted/alkohol/%C3%B5lu/c/SH-1-6', '15õlu')
-    write_json('https://www.rimi.ee/epood/ee/tooted/vegantooted/c/SH-17', '16vegan')
+    # write_json('https://www.rimi.ee/epood/ee/tooted/vegantooted/c/SH-17', '16vegan')
 
 
-    data = get_json("16vegan")
+    data = get_json("4leibsai")
     calculate_score(data, True)
-    print("Scroll up to get other tops")
+    print("\n+++++++++++++++++++++++++++++++++++\nScroll up to get other sorted lists")
