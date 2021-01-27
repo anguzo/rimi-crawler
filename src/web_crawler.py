@@ -7,6 +7,7 @@ and write them into json file.
 import json
 import re
 import requests
+import time
 from bs4 import BeautifulSoup
 
 
@@ -33,7 +34,6 @@ def parse(start_url: str) -> list:
             links.append(product_a['href'])
     finally:
         for link in links:
-            print(link)
             product_data = find_all_parameters(link)
             if product_data:
                 all_products_data.append(product_data)
@@ -189,7 +189,7 @@ def calculate_score(data: list, price_bool: bool):
                     tier_dict[best['Nimi']] = 1 * multiplier
     tier_list = sorted(tier_dict, key=lambda prod: float(tier_dict[prod]), reverse=True)
     print("\n")
-    print("Tier list of hlebushek")
+    print("Tier list of food")
     print("\n")
     for i, name in enumerate(tier_list):
         if i < 30:
@@ -197,6 +197,7 @@ def calculate_score(data: list, price_bool: bool):
 
 
 if __name__ == '__main__':
+    start_time = time.time()
     write_json('https://www.rimi.ee/epood/ee/tooted/puuviljad%2C-k%C3%B6%C3%B6giviljad%2C-lilled/juurviljad-ja-k%C3%B6%C3%B6giviljad/c/SH-12-1', '1jkviljad')
     # write_json('https://www.rimi.ee/epood/ee/tooted/puuviljad%2C-k%C3%B6%C3%B6giviljad%2C-lilled/rohelised-salatid/c/SH-12-6', '2rohsalat')
     # write_json('https://www.rimi.ee/epood/ee/tooted/toidukaubad/helbed%2C-hommikus%C3%B6%C3%B6gihelbed%2C-m%C3%BCsli/c/SH-13-2', '3helbed')
@@ -216,6 +217,8 @@ if __name__ == '__main__':
 
     # data = get_json("4leibsai")
     # calculate_score(data, True)
+
+    print("--- %s seconds ---" % (time.time() - start_time))
 
     print("\n+++++++++++++++++++++++++++++++++++\nScroll up to get other sorted lists")
 
