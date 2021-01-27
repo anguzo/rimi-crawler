@@ -214,3 +214,4 @@ if __name__ == '__main__':
 
     data = get_json("16vegan")
     calculate_score(data, True)
+    print("Scroll up to get other tops")
