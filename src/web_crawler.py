@@ -70,6 +70,7 @@ def find_all_parameters(href: str):
 
 def calculate_best_by_param(products: list, param: str, reverse: bool):
     """
+    .
 
     :param reverse:
     :param products:
@@ -95,8 +96,10 @@ def calculate_best_by_param(products: list, param: str, reverse: bool):
 
 def best_string_repr(sorted_products: list, param: str):
     """
+    .
 
     :param sorted_products:
+    :param param:
     :return:
     """
     top = f"Sorted by {param}"
@@ -139,7 +142,10 @@ def get_json(json_name: str = ""):
 
 def calculate_score(data: list, price_bool: bool):
     """
+    .
 
+    :param data:
+    :param price_bool:
     :return:
     """
     tier_dict = {}
